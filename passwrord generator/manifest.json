@@ -1,0 +1,12 @@
+
+{
+    
+    "manifest_version": 3,
+    "name": "Password Generator",
+    "version": "1.0.0",
+    "action": {"default_popup": "popup.html"},
+    "description": "A one-click password generator",
+    "icons": {"128": "icon.png"}
+}
+  
+    
